@@ -1,0 +1,5 @@
+Can you read the contents of this file without opening it in a text editor?  Try it with commands like 'cat' or 'less'.
+
+If you're ready to learn even more about Git, you can work through a more advanced tutorial here:
+http://swcarpentry.github.io/git-novice/
+This is the Software Carpentries lesson Version Control with Git.
